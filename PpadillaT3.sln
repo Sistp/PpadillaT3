@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PpadillaT3", "PpadillaT3.csproj", "{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00D113A-ED12-441E-A7BF-7F7991FEFA0F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81EA7D8D-4DB2-442D-94DD-9107B98BA4B6}
+	EndGlobalSection
+EndGlobal
